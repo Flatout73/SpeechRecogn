@@ -1,0 +1,6 @@
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\bin\Debug\SpeechRecogn.exe.config
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\obj\Debug\SpeechRecogn.csprojResolveAssemblyReference.cache
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\bin\Debug\SpeechRecogn.exe
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\bin\Debug\SpeechRecogn.pdb
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\obj\Debug\SpeechRecogn.exe
+D:\C# speech\ConsoleSpeech\SpeechRecogn\SpeechRecogn\obj\Debug\SpeechRecogn.pdb
